@@ -1,0 +1,2 @@
+# ling-s
+learn python
